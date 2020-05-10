@@ -1,0 +1,16 @@
+*.pyc
+# setup.py files
+*.egg-info
+dist
+build
+
+.coverage
+.tox
+
+# Gae folder
+gae
+# Sphinx build directory
+docs/_build
+
+# configuration file for the app
+application.cfg
