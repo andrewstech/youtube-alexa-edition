@@ -2,8 +2,8 @@
 name: community editions
 about: Tell us the features you have added.
 title: 'community editions'
-labels: 'community editions'
-assignees: ''
+labels: 'Community-editions'
+assignees: 'andrewstech'
 
 ---
 
