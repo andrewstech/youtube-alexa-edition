@@ -2,6 +2,7 @@
 
 tutorial: https://skills.andrewstech.me/youtube-alexa-edition-setup/
 
+Project status: https://skills-status.andrewstech.me/
 
 This project uses the youtube-dl server api
 
