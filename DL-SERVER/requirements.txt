@@ -1,3 +1,3 @@
-youtube_dl == 2014.03.12
+youtube_dl == 2020.5.29
 flask
 gunicorn
