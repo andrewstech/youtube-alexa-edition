@@ -1,5 +1,5 @@
 version: 1
 update_configs:
-  - package_manager: "javascript"
+  - package_manager: "python"
     directory: "/DL-SERVER"
     update_schedule: "live"
