@@ -8,7 +8,7 @@ exemptLabels: []
 
 # Comment to post before closing or locking. Set to `false` to disable
 comment: >
-    The skill is currently broken new issues can't be opened.
+    The skill is currently broken new issues can't be opened. If you have a solution please email skills@andrewstech.me
 
 # Label to add before closing or locking. Set to `false` to disable
 label: false
