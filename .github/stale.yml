@@ -4,7 +4,7 @@ daysUntilStale: 7
 daysUntilClose: 2
 # Issues with these labels will never be considered stale
 exemptLabels:
-  - pinned
+  - translation
   - security
 # Label to use when marking an issue as stale
 staleLabel: stale
