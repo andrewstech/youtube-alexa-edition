@@ -1,3 +1,3 @@
-youtube_dl == 2020.5.29
+youtube_dl == 2020.6.6
 flask
 gunicorn
