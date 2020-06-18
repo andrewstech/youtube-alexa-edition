@@ -1,5 +1,7 @@
 # youtube-alexa-edition
 
+You can find a copy of this page at http://andrewstech.me/youtube-alexa-edition/
+
 tutorial: https://skills.andrewstech.me/youtube-alexa-edition-setup/
 
 Project status: https://skills-status.andrewstech.me/
