@@ -1,4 +1,7 @@
 # youtube-alexa-edition -Alpha
+
+[![HitCount](http://hits.dwyl.com/andrewstech/youtube-alexa-edition.svg)](http://hits.dwyl.com/andrewstech/youtube-alexa-edition)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This skill has had many issues since its launch. I have decided to shutdown this project as of the 5 of july 2020. A new version of the skill will be worked on in the near future. The new project will be avalible at https://github.com/unofficial-skills/Alpha-Tube
