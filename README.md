@@ -1,6 +1,10 @@
 # youtube-alexa-edition -Alpha
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This skill has had many issues since its launch. I have decided to shutdown this project as of the 5 of july 2020. A new version of the skill will be worked on in the near future. The new project will be avalible at https://github.com/unofficial-skills/Alpha-Tube
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 You can find a copy of this page at http://andrewstech.me/youtube-alexa-edition/
 
