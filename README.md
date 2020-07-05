@@ -1,4 +1,4 @@
-# youtube-alexa-edition -Alpha
+# youtube-alexa-edition - OUT OF DATE
 
 [![HitCount](http://hits.dwyl.com/andrewstech/youtube-alexa-edition.svg)](http://hits.dwyl.com/andrewstech/youtube-alexa-edition)
 
